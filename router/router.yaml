@@ -41,10 +41,7 @@ coprocessor:
     response:
       body: true
 
-preview_persisted_queries:
-  enabled: true
-apq:
-  enabled: false
+
 
 
 ## Enter Workshop Module Configs Below
